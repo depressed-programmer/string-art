@@ -1,0 +1,13 @@
+#canvas_image_container {
+    position: relative;
+}
+
+#canvas_image_container canvas {
+    border: 1px solid black;
+    position: absolute;
+}
+
+#canvas_image_container div {
+    position: absolute;
+    background: red;
+}
